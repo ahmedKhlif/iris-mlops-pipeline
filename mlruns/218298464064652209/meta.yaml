@@ -1,0 +1,6 @@
+artifact_location: file:///C:/project/tp9_mlops/TP_MLOps/mlruns/218298464064652209
+creation_time: 1745830866344
+experiment_id: '218298464064652209'
+last_update_time: 1745830866344
+lifecycle_stage: active
+name: iris_classification

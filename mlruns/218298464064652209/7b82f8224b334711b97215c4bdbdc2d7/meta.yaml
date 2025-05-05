@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/project/tp9_mlops/TP_MLOps/mlruns/218298464064652209/7b82f8224b334711b97215c4bdbdc2d7/artifacts
+end_time: 1745830870868
+entry_point_name: ''
+experiment_id: '218298464064652209'
+lifecycle_stage: active
+run_id: 7b82f8224b334711b97215c4bdbdc2d7
+run_name: unequaled-flea-28
+run_uuid: 7b82f8224b334711b97215c4bdbdc2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745830866470
+status: 3
+tags: []
+user_id: Asus TUF
